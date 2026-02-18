@@ -1,6 +1,7 @@
 / Requisition entity
         package com.procurement.procurement.entity.procurement;
 
+import com.procurement.procurement.entity.procurement.RequisitionItem;
 import com.procurement.procurement.entity.user.User;
 import jakarta.persistence.*;
 import java.time.LocalDateTime;
