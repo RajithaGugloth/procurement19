@@ -1,4 +1,4 @@
-/ Vendor request DTO
+// Vendor request DTO
 package com.procurement.procurement.dto.vendor;
 
 public class VendorRequestDTO {
