@@ -1,8 +1,15 @@
+package com.procurement.procurement.controller.auth;
+
+import com.procurement.procurement.entity.user.Role;
+import com.procurement.procurement.entity.user.User;
+import com.procurement.procurement.repository.user.RoleRepository;
+import com.procurement.procurement.repository.user.UserRepository;
+import org.springframework.web.bind.annotation.*;
+
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.Map;
 import java.util.Optional;
-
 @RestController
 @RequestMapping("/auth/debug")
 public class DebugController {

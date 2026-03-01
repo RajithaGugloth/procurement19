@@ -1,4 +1,4 @@
-/ Purchase order item entity
+// Purchase order item entity
         package com.procurement.procurement.entity.procurement;
 
 import jakarta.persistence.*;

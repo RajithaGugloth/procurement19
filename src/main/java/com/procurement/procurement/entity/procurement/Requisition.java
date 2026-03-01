@@ -1,4 +1,4 @@
-/ Requisition entity
+// Requisition entity
         package com.procurement.procurement.entity.procurement;
 
 import com.procurement.procurement.entity.procurement.RequisitionItem;
